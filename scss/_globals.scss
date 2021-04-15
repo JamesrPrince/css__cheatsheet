@@ -1,0 +1,23 @@
+:root {
+  --clr-subhead: #3f3208;
+  --clr-h2: #ff7f50;
+  --clr-h1: #deb887;
+  --clr-text: #f7f7ff;
+  --ff-title: bungee, sans-serif;
+  --ff-body: canada-type-gibson, sans-serif;
+  --fw-body: 300;
+  --fw-bold: 800;
+  --fw-title: 400;
+  --fw-number: 800;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: helvetica, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}

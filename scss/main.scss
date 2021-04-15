@@ -1,0 +1,16 @@
+@import "./table";
+@import "./globals";
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.title {
+  margin: 20px auto;
+  padding: 40px 0;
+  font-size: 3rem;
+}
