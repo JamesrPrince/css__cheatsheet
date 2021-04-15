@@ -34,7 +34,6 @@ h1 {
   width: 100%;
   text-align: center;
   background-color: var(--clr-h1);
-  clip-path: stroke-box(0 0, 100% 60%, 0% 100%, 100% 0%);
 }
 
 h2 {
